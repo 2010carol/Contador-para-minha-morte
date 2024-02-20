@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap')
+:root{ 
+    --cor-de-fundo:#dbd6d6;
+    --verde:#6FFF57;
+    --branco: #3A37SE;
+    --botao-ativo: #CCCCCC;
+    --botao-inativo: #0A0;
+    --texto-fundo: #E3f1CE;
+
+}
